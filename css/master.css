@@ -12,6 +12,14 @@
   margin: 5px;
 }
 
+.overlay-box {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: white;
+  /* centering the text both horizontally and vertically */
+  line-height: 250px;
+  text-align: center;
+}
+
 /* background images */
 
 .city1-back {
