@@ -4,8 +4,24 @@
   box-sizing: border-box;
 }
 
+/* boxes */
+
 .city-box {
   width: 250px;
   height: 250px;
   margin: 5px;
+}
+
+/* background images */
+
+.city1-back {
+  background-image: url(../img/city1.jpg);
+}
+
+.city2-back {
+  background-image: url(../img/city2.jpg);
+}
+
+.city3-back {
+  background-image: url(../img/city3.jpg);
 }
